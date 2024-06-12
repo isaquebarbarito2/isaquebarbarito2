@@ -5,3 +5,5 @@ Estou estudando na Alura,
 estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 ![](link)
+ ## Entre e contato comigo
+  isaquebarbaritodasilva777@gmail.com
